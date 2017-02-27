@@ -1,0 +1,57 @@
+body {
+    background-color: #D3D3D3;
+
+}
+
+h1 {
+    color:	#FF4500;
+    text-align: center;
+    font-family: Courier New;
+}
+
+h2, h3, h4, p ,li{
+	color: #B22222;
+	padding: 5px;
+	
+}
+
+
+
+label{ 
+	display: block;
+	width: 200px; 
+	color: #0000FF;
+	
+}
+
+textarea{
+
+	width: 400px;
+	height: 120px;
+	border: 3px solid #8FBC8F;
+	font-size: 12pt;
+	padding: 10px ;
+	background-color:#A9A9A9;
+    color: #0000FF;
+		
+}
+
+a:link {
+    color: red;
+    font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+    color: #20B2AA;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
